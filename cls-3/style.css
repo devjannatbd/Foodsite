@@ -1,0 +1,40 @@
+.first-div {
+  background-color: rgb(169, 196, 187);
+  border: 3px solid brown;
+  margin: 20px;
+}
+.heading-i {
+  color: rgb(14, 186, 238);
+  text-align: center;
+  
+}
+.second-div {
+  background-color: rgb(233, 138, 207);
+  border: 3px dashed rgb(49, 4, 252);
+  border-radius: 25px;
+}
+.heading-ii {
+  padding: 30px;
+  color: rgb(238, 25, 78);
+  text-align: right;
+}
+.third-div {
+  background-color: rgb(153, 158, 94);
+  border: 3px dotted red;
+  margin: 15px;
+}
+.heading-iii {
+ color: chocolate;
+}
+.list {
+  color: rgb(2, 252, 110);
+}
+.ulist {
+  font-size: 22px;
+}
+span {
+  color: rgba(228, 5, 5, 0.883);
+  font-family: Verdana, Geneva, Tahoma, sans-serif;
+  font-size: 20px;
+  font-weight: 700;
+}

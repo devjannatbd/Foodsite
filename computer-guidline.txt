@@ -1,0 +1,16 @@
+windows+alt+f4 = shutdown computer,
+windows+.= emoji,
+tastk view> desktop2= new fresh desktop,
+ctrl+shift+n = create a new folder,
+windows++button(+)= to zoom browser cursor point [windows clipbord use to copy],
+screenshots: awesome screenshot:screen video recoder-corme extention
+
+
+
+altr+shift+up arrow/down arrow
+
+
+
+---shamim all drives
+---
+https://drive.google.com/drive/folders/1ZZNIQJv3ujDkgNrh2-02GUGmfHILyefC

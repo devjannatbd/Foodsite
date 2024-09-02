@@ -1,0 +1,131 @@
+* {
+  margin: 0;
+}
+
+body {
+  font-family: "Poppins", sans-serif;
+}
+
+.nav-container {
+  display: flex;
+  justify-content: space-between;
+  background-color: #fff9ea;
+  height: 108px;
+  align-items: center;
+  padding: 0px 140px;
+}
+
+.logo {
+  height: 45px;
+  width: 147px;
+}
+
+nav ul li {
+  list-style: none;
+  color: #6b6963;
+  font-weight: 600;
+}
+
+nav ul {
+  display: flex;
+  gap: 18px;
+}
+
+.icon {
+  display: flex;
+  align-items: center;
+  gap: 20px;
+}
+
+.cart {
+  margin-left: 15px;
+}
+
+.signInBtn {
+  background-color: #ffcb45;
+  border: none;
+  padding: 10px 20px;
+  border-radius: 20px;
+  font-weight: 600;
+}
+
+/* Hero Style */
+.hero-container {
+  background-image: url(/img/shapes.png);
+  height: 500px;
+  background-size: cover;
+  background-repeat: no-repeat;
+  padding: 12px 140px;
+}
+
+.left-container {
+  height: 100%;
+  display: flex;
+  align-items: center;
+  gap: 200px;
+}
+
+.heading {
+  font-size: 30px;
+  font-weight: 600;
+  line-height: 40px;
+}
+
+span {
+  color: #ffcb45;
+}
+
+.hcontent {
+  color: #6b6963;
+  line-height: 25px;
+}
+
+.startbtn {
+  background-color: #ffcb45;
+  border: none;
+  padding: 10px 25px;
+  border-radius: 20px;
+  font-weight: 600;
+  margin-top: 15px;
+}
+
+/* service section  */
+.service-container {
+  margin-top: 50px;
+
+}
+
+.serv-container {
+  margin: 0 200px;
+  margin-top: 32px;
+  display: grid;
+  grid-template-columns: repeat(3, 1fr);
+}
+
+.serve-img {
+  width: 180px;
+  height: 180px;
+}
+
+/* menu section  */
+.menu-container {
+  margin: 140px 140px;
+
+}
+
+.imag-container {
+  display: flex;
+  gap: 20px;
+}
+.menu-img {
+  height: 230px;
+  width: 230px;
+  border-radius: 15px;
+  /* box-shadow: rgba(100, 100, 111, 0.2) 0px 7px 29px 0px; */
+}
+.menu-icon {
+  display: flex;
+  justify-content: space-between;
+  align-items: center;
+}
+/* cliping path */
